@@ -7,3 +7,5 @@ In the main interface we can see just a button.
 
 After we click that button a modal window will appear and we can read the joke.
 ![image](https://user-images.githubusercontent.com/94526883/153756311-22a7388e-7de6-4db6-b185-aff20b14db72.png)
+
+copyright Jonas Schmedtmann :The Complete JavaScript Course 2022: From Zero to Expert!
